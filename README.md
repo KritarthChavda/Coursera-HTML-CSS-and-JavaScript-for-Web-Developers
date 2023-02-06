@@ -2,9 +2,6 @@
 This repository contains the assignments that I was supposed to do in the course .
 
 
-![Course Completion certificate](https://github.com/siddartha19/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/blob/master/Certificate.PNG)
-
-
 # Assignments :
 
 * Module-1 - Quiz 
