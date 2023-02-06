@@ -1,19 +1,9 @@
-# Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
-This repository contains the assignments that I was supposed to do in the course .
+# HTML5-WebDevCourse
+Link to the Course [Html-CSS-Javascript-for-web-developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-
-# Assignments :
-
-* Module-1 - Quiz 
-* Module-2 - Coding
-* Module-3 - Coding
-* Module-4 - Coding
-* Module-5 - Coding
-
-
-# Outputs :
-
-* [Module-2](https://kritarthchavda.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/Module-2/assignment2.html)
-* [Module-3](https://kritarthchavda.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/Module-3/assignment3.html)
-* [Module-4](https://kritarthchavda.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/Module-4/assignment4.html)
-* [Module-5](https://kritarthchavda.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/Module-5/assignment5.html)
+### Assignment Submissions
+1. Mod 1 Assignment
+2. [Mod 2 Assignment](https://y-a-s-h-b.github.io/HTML5-WebDevCourse/Mod-2-Assignment/)
+3. [Mod 3 Assignment](https://y-a-s-h-b.github.io/HTML5-WebDevCourse/Mod-3-Assignment/)
+4. [Mod 4 Assignment](https://y-a-s-h-b.github.io/HTML5-WebDevCourse/Mod-4-Assignment/)
+5. [Mod 5 Assignment](https://y-a-s-h-b.github.io/HTML5-WebDevCourse/Mod-5-Assignment/)
